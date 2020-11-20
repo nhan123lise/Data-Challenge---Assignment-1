@@ -4668,3 +4668,1518 @@ JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_20111
 JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
 JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
 JavaScript error: https://contineljs.com/_tracking1.gif?dg=7753977e811de36e869d745c7928f67a&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605797509381%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B3df95186c67f4f8fd5e8931636ddba4e%3B7753977e811de36e869d745c7928f67a%3BGA1.1.1219556389.1605797500%3B8901%3B78%3B582%3B229%3B0%3B-2%3B5565%3B5577&rdm=0.7094683620868664&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605836698577	Marionette	INFO	Stopped listening on port 60908
+1605884766195	geckodriver	INFO	Listening on 127.0.0.1:61308
+1605884767221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilebsQUbu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884771767	Marionette	INFO	Listening on port 61315
+1605884771909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605884771962	Marionette	INFO	Stopped listening on port 61315
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605884772652	geckodriver	INFO	Listening on 127.0.0.1:61375
+1605884773664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileykhRCo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884776608	Marionette	INFO	Listening on port 61382
+1605884776770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605884785191	Marionette	INFO	Stopped listening on port 61382
+1605884786368	geckodriver	INFO	Listening on 127.0.0.1:61485
+1605884787379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileYL9xhq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884790407	Marionette	INFO	Listening on port 61492
+1605884790525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605884790665	Marionette	INFO	Stopped listening on port 61492
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605884791367	geckodriver	INFO	Listening on 127.0.0.1:61538
+1605884792391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileilrlx1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884796065	Marionette	INFO	Listening on port 61545
+1605884796146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605884804831	Marionette	INFO	Stopped listening on port 61545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605884806063	geckodriver	INFO	Listening on 127.0.0.1:61660
+1605884807071	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileBuKshB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884810248	Marionette	INFO	Listening on port 61667
+1605884810324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=7f270b63e9476c9806de887e5229b824&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605884819083%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bdbe372e2cdf66ef16e380e9008260f38%3B7f270b63e9476c9806de887e5229b824%3BGA1.1.1700286493.1605884814%3B4199%3B10%3B287%3B231%3B0%3B-7%3B2522%3B2527&rdm=0.4947610176992542&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605884862246	geckodriver	INFO	Listening on 127.0.0.1:61856
+1605884863252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileWab0Ww"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884867187	Marionette	INFO	Listening on port 61863
+1605884867286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605884867386	Marionette	INFO	Stopped listening on port 61863
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605884868081	geckodriver	INFO	Listening on 127.0.0.1:61915
+1605884869091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileKskUOT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884872446	Marionette	INFO	Listening on port 61923
+1605884872613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605884879981	Marionette	INFO	Stopped listening on port 61923
+1605884881151	geckodriver	INFO	Listening on 127.0.0.1:62036
+1605884882155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileVxVvlU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884885688	Marionette	INFO	Listening on port 62043
+1605884885940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605884886006	Marionette	INFO	Stopped listening on port 62043
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605884886749	geckodriver	INFO	Listening on 127.0.0.1:62096
+1605884887758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileirQbcT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884891220	Marionette	INFO	Listening on port 62103
+1605884891282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605884901718	Marionette	INFO	Stopped listening on port 62103
+1605884903160	geckodriver	INFO	Listening on 127.0.0.1:62214
+1605884904159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileY8FGuz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884907707	Marionette	INFO	Listening on port 62221
+1605884907883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=169aa1fdac38f06a7f336ffbe69337b6&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605884915208%3B0%3B0%3B1%3B0%3B0%3B1280x666%3B0%3B0%3Bed03074db24d9cded0bcd462ccd4ee9e%3B169aa1fdac38f06a7f336ffbe69337b6%3BGA1.1.531889635.1605884910%3B3009%3B5%3B248%3B113%3B0%3B-1%3B1978%3B1991&rdm=0.41032925427179257&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605885081645	Marionette	INFO	Stopped listening on port 61667
+1605885083157	Marionette	INFO	Stopped listening on port 62221
+1605885110896	geckodriver	INFO	Listening on 127.0.0.1:62439
+1605885111908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileI8bxHC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885115895	Marionette	INFO	Listening on port 62446
+1605885115962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885116100	Marionette	INFO	Stopped listening on port 62446
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605885116786	geckodriver	INFO	Listening on 127.0.0.1:62504
+1605885117804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilev7eglR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885120900	Marionette	INFO	Listening on port 62513
+1605885121044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885126072	Marionette	INFO	Stopped listening on port 62513
+1605885127216	geckodriver	INFO	Listening on 127.0.0.1:62658
+1605885128215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile2ZTrvB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885131137	Marionette	INFO	Listening on port 62665
+1605885131446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885131477	Marionette	INFO	Stopped listening on port 62665
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605885132137	geckodriver	INFO	Listening on 127.0.0.1:62712
+1605885133154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileja0B4M"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885135964	Marionette	INFO	Listening on port 62719
+1605885136144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605885144605	Marionette	INFO	Stopped listening on port 62719
+1605885145950	geckodriver	INFO	Listening on 127.0.0.1:62826
+1605885146952	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileg2aQNI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885149991	Marionette	INFO	Listening on port 62833
+1605885150113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=bc219885fd85b338ec5e005df7e4693e&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605885160199%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bf27226216924b8024d71ed85b77c3228%3Bbc219885fd85b338ec5e005df7e4693e%3BGA1.1.1864383387.1605885152%3B5731%3B0%3B267%3B143%3B0%3B-3%3B2066%3B2075&rdm=0.03350424724448542&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605885225940	geckodriver	INFO	Listening on 127.0.0.1:63068
+1605885226946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilejNgJh0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885231249	Marionette	INFO	Listening on port 63075
+1605885231363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885231407	Marionette	INFO	Stopped listening on port 63075
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605885232104	geckodriver	INFO	Listening on 127.0.0.1:63135
+1605885233113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilebAtvvr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885236631	Marionette	INFO	Listening on port 63142
+1605885236774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605885244450	Marionette	INFO	Stopped listening on port 63142
+1605885245722	geckodriver	INFO	Listening on 127.0.0.1:63252
+1605885246721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofiledKj1N2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885250382	Marionette	INFO	Listening on port 63259
+1605885250681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885250716	Marionette	INFO	Stopped listening on port 63259
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605885251494	geckodriver	INFO	Listening on 127.0.0.1:63311
+1605885252512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileINK9me"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885255902	Marionette	INFO	Listening on port 63318
+1605885256075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605885264044	Marionette	INFO	Stopped listening on port 63318
+1605885265397	geckodriver	INFO	Listening on 127.0.0.1:63434
+1605885266409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileLyuuIL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885269881	Marionette	INFO	Listening on port 63441
+1605885270167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=1d338e33d63a3449ae3c0b51286566f0&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605885278484%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B84f4d36da61f2ea7e96e42921c28c0e9%3B1d338e33d63a3449ae3c0b51286566f0%3BGA1.1.2133231782.1605885274%3B4189%3B2%3B319%3B131%3B0%3B-1%3B3231%3B3279&rdm=0.2881698229244869&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605885708970	geckodriver	INFO	Listening on 127.0.0.1:63933
+1605885709965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile2Bl1Vf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885715465	Marionette	INFO	Listening on port 63940
+1605885715644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885715751	Marionette	INFO	Stopped listening on port 63940
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605885716974	geckodriver	INFO	Listening on 127.0.0.1:64015
+1605885717985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileAq6miV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885722493	Marionette	INFO	Listening on port 64023
+1605885722547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885726173	Marionette	INFO	Stopped listening on port 64023
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1605885727670	geckodriver	INFO	Listening on 127.0.0.1:64136
+1605885728671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileVhJ7AM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885733256	Marionette	INFO	Listening on port 64143
+1605885733398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885733464	Marionette	INFO	Stopped listening on port 64143
+1605885734368	geckodriver	INFO	Listening on 127.0.0.1:64210
+1605885735374	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilew8igpP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885739375	Marionette	INFO	Listening on port 64217
+1605885739476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605885748283	Marionette	INFO	Stopped listening on port 64217
+1605885749924	geckodriver	INFO	Listening on 127.0.0.1:64351
+1605885750933	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilevFwcVM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885756733	Marionette	INFO	Listening on port 64358
+1605885756800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=ffc03c573f9fb0ef85b7f0de838c8401&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605885768766%3B0%3B0%3B1%3B0%3B0%3B1280x666%3B0%3B0%3Bf56a1ed59fbeb647242f80a13642d895%3Bffc03c573f9fb0ef85b7f0de838c8401%3BGA1.1.314297153.1605885764%3B7424%3B2%3B285%3B105%3B0%3B-2%3B6785%3B6846&rdm=0.16782170297973698&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605885810896	geckodriver	INFO	Listening on 127.0.0.1:64611
+1605885811909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileDUXTUC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885817611	Marionette	INFO	Listening on port 64618
+1605885817731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885817802	Marionette	INFO	Stopped listening on port 64618
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605885818664	geckodriver	INFO	Listening on 127.0.0.1:64693
+1605885819676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileBFfIya"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885824105	Marionette	INFO	Listening on port 64700
+1605885824145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605885832391	Marionette	INFO	Stopped listening on port 64700
+1605885833972	geckodriver	INFO	Listening on 127.0.0.1:64822
+1605885834925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilerWAv5l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885839551	Marionette	INFO	Listening on port 64829
+1605885839681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605885839726	Marionette	INFO	Stopped listening on port 64829
+1605885840660	geckodriver	INFO	Listening on 127.0.0.1:64897
+1605885841679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileIOawKr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885845840	Marionette	INFO	Listening on port 64906
+1605885845950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605885853639	Marionette	INFO	Stopped listening on port 64906
+1605885854935	geckodriver	INFO	Listening on 127.0.0.1:65091
+1605885855923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileqhPTr2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605885860163	Marionette	INFO	Listening on port 65098
+1605885860276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=6a5874263eb85b2baa7f1b2faf1d6ff5&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605885867617%3B0%3B0%3B1%3B0%3B0%3B1280x668%3B0%3B0%3Babfdb30cf393e35465cf06aaa504fbe6%3B6a5874263eb85b2baa7f1b2faf1d6ff5%3BGA1.1.1215220727.1605885863%3B3010%3B1%3B321%3B100%3B0%3B-3%3B2246%3B2296&rdm=0.03811958023657169&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605885912083	Marionette	INFO	Stopped listening on port 62833
+1605885913709	Marionette	INFO	Stopped listening on port 63441
+1605885914976	Marionette	INFO	Stopped listening on port 64358
+1605885916497	Marionette	INFO	Stopped listening on port 65098
+1605886094623	geckodriver	INFO	Listening on 127.0.0.1:65313
+1605886095638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilexF7Z0p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886099194	Marionette	INFO	Listening on port 65320
+1605886099276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886099308	Marionette	INFO	Stopped listening on port 65320
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1605886099873	geckodriver	INFO	Listening on 127.0.0.1:65368
+1605886100889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileTa9YLG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886105155	Marionette	INFO	Listening on port 65375
+1605886105256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886109132	Marionette	INFO	Stopped listening on port 65375
+1605886110447	geckodriver	INFO	Listening on 127.0.0.1:65471
+1605886111456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileD37zAr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886117134	Marionette	INFO	Listening on port 65479
+1605886117313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886117373	Marionette	INFO	Stopped listening on port 65479
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1605886118256	geckodriver	INFO	Listening on 127.0.0.1:49178
+1605886119260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileerV4ly"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886123403	Marionette	INFO	Listening on port 49185
+1605886123432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605886131561	Marionette	INFO	Stopped listening on port 49185
+1605886133296	geckodriver	INFO	Listening on 127.0.0.1:49300
+1605886134303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile8eARvU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886137293	Marionette	INFO	Listening on port 49307
+1605886137436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=83931baf0fa40a5dc80ab43f75acf77d&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886145856%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B997fc2b69b2826aefc8ac3973af768ca%3B83931baf0fa40a5dc80ab43f75acf77d%3BGA1.1.897042223.1605886141%3B3553%3B0%3B349%3B130%3B0%3B-3%3B2869%3B2912&rdm=0.3222260676193228&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605886219230	geckodriver	INFO	Listening on 127.0.0.1:49557
+1605886220247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileITKkzl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886224848	Marionette	INFO	Listening on port 49564
+1605886224944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886225120	Marionette	INFO	Stopped listening on port 49564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605886225919	geckodriver	INFO	Listening on 127.0.0.1:49632
+1605886226925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileL7r72e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886232297	Marionette	INFO	Listening on port 49655
+1605886232392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886237006	Marionette	INFO	Stopped listening on port 49655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886238554	geckodriver	INFO	Listening on 127.0.0.1:49811
+1605886239581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileAMqelP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886244206	Marionette	INFO	Listening on port 49819
+1605886244324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886244356	Marionette	INFO	Stopped listening on port 49819
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1605886245142	geckodriver	INFO	Listening on 127.0.0.1:49886
+1605886246158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileEYCEw3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886250589	Marionette	INFO	Listening on port 49893
+1605886250692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886255739	Marionette	INFO	Stopped listening on port 49893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886257283	geckodriver	INFO	Listening on 127.0.0.1:49999
+1605886258290	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile91qV90"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886262125	Marionette	INFO	Listening on port 50006
+1605886262197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=00ee535f44d2a2cef81bc560aa149f1b&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886271008%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B42486ab0be4867d87738addda3cfc6b5%3B00ee535f44d2a2cef81bc560aa149f1b%3BGA1.1.1939612762.1605886264%3B4601%3B2%3B295%3B131%3B0%3B-4%3B2073%3B2086&rdm=0.8463004383852899&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605886305357	geckodriver	INFO	Listening on 127.0.0.1:50243
+1605886306363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilepZ5cGm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886311395	Marionette	INFO	Listening on port 50250
+1605886311461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886311515	Marionette	INFO	Stopped listening on port 50250
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1605886312323	geckodriver	INFO	Listening on 127.0.0.1:50320
+1605886313327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileQmZtfD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886317550	Marionette	INFO	Listening on port 50327
+1605886317645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886323277	Marionette	INFO	Stopped listening on port 50327
+1605886325527	geckodriver	INFO	Listening on 127.0.0.1:50455
+1605886326514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileN3vkmD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886331121	Marionette	INFO	Listening on port 50466
+1605886331212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886331396	Marionette	INFO	Stopped listening on port 50466
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605886332590	geckodriver	INFO	Listening on 127.0.0.1:50561
+1605886333609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile5E7sIW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886337567	Marionette	INFO	Listening on port 50572
+1605886337699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886342551	Marionette	INFO	Stopped listening on port 50572
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js, line 26: NS_ERROR_NOT_INITIALIZED: 
+1605886343851	geckodriver	INFO	Listening on 127.0.0.1:50678
+1605886344897	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileoAK7Wn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886348765	Marionette	INFO	Listening on port 50685
+1605886348876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=f5fdefd13c0c537f98f790121f182d15&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886357845%3B0%3B0%3B0%3B0%3B0%3B1280x666%3B0%3B0%3Bc201739795fe9458791d8e92d5565673%3Bf5fdefd13c0c537f98f790121f182d15%3BGA1.1.1956413951.1605886352%3B3505%3B16%3B434%3B102%3B269%3B-3%3B2729%3B2739&rdm=0.06422704702732052&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+1605886398214	Marionette	INFO	Stopped listening on port 49307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886400426	Marionette	INFO	Stopped listening on port 50006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886401856	Marionette	INFO	Stopped listening on port 50685
+1605886444773	geckodriver	INFO	Listening on 127.0.0.1:51065
+1605886445791	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile83E5dh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886449778	Marionette	INFO	Listening on port 51090
+1605886449907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886449997	Marionette	INFO	Stopped listening on port 51090
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605886450791	geckodriver	INFO	Listening on 127.0.0.1:51166
+1605886451809	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile2ThYrK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886455920	Marionette	INFO	Listening on port 51173
+1605886456000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886460837	Marionette	INFO	Stopped listening on port 51173
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js, line 26: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886462115	geckodriver	INFO	Listening on 127.0.0.1:51270
+1605886463118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilej7Fmnc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886466350	Marionette	INFO	Listening on port 51277
+1605886466566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886466606	Marionette	INFO	Stopped listening on port 51277
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1605886467269	geckodriver	INFO	Listening on 127.0.0.1:51327
+1605886468288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileJQLrZb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886471376	Marionette	INFO	Listening on port 51334
+1605886471423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886476560	Marionette	INFO	Stopped listening on port 51334
+1605886477663	geckodriver	INFO	Listening on 127.0.0.1:51420
+1605886478671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilejEAtxF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886481764	Marionette	INFO	Listening on port 51427
+1605886482049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=6f0b4b9584edb90208ee194b74afc19a&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886488935%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bf4ebc10520da395769fae123e7f16cee%3B6f0b4b9584edb90208ee194b74afc19a%3BGA1.1.1372758396.1605886484%3B2628%3B0%3B287%3B110%3B0%3B-2%3B1778%3B1807&rdm=0.49395900910597756&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605886556293	geckodriver	INFO	Listening on 127.0.0.1:51602
+1605886557319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofiletyEt29"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886561206	Marionette	INFO	Listening on port 51609
+1605886561314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886561367	Marionette	INFO	Stopped listening on port 51609
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1605886562189	geckodriver	INFO	Listening on 127.0.0.1:51660
+1605886563207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile1pLh05"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886566811	Marionette	INFO	Listening on port 51667
+1605886566881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886572450	Marionette	INFO	Stopped listening on port 51667
+1605886573976	geckodriver	INFO	Listening on 127.0.0.1:51765
+1605886574994	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileIgmMV0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886578276	Marionette	INFO	Listening on port 51772
+1605886578367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886578447	Marionette	INFO	Stopped listening on port 51772
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605886579398	geckodriver	INFO	Listening on 127.0.0.1:51821
+1605886580400	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilegRt1p2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886584362	Marionette	INFO	Listening on port 51831
+1605886584499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886590432	Marionette	INFO	Stopped listening on port 51831
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1605886591832	geckodriver	INFO	Listening on 127.0.0.1:51932
+1605886592849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilewjB2LN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886596142	Marionette	INFO	Listening on port 51940
+1605886596402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=bb2ec35a9a7d71602bc8122f1b76d7a5&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886604626%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bbd8f5482876d6ad52a0b39ef47a496c9%3Bbb2ec35a9a7d71602bc8122f1b76d7a5%3BGA1.1.170306859.1605886599%3B3868%3B0%3B450%3B372%3B0%3B-5%3B3265%3B3314&rdm=0.10170298239471443&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605886647710	Marionette	INFO	Stopped listening on port 51940
+1605886649397	Marionette	INFO	Stopped listening on port 51427
+1605886700951	geckodriver	INFO	Listening on 127.0.0.1:52116
+1605886701966	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile32N7He"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886706185	Marionette	INFO	Listening on port 52123
+1605886706252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886706329	Marionette	INFO	Stopped listening on port 52123
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605886706877	geckodriver	INFO	Listening on 127.0.0.1:52180
+1605886707894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilecPziy6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886710859	Marionette	INFO	Listening on port 52188
+1605886710923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886715987	Marionette	INFO	Stopped listening on port 52188
+1605886717552	geckodriver	INFO	Listening on 127.0.0.1:52273
+1605886718555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileJIvBBF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886721489	Marionette	INFO	Listening on port 52280
+1605886721621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886721872	Marionette	INFO	Stopped listening on port 52280
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605886722557	geckodriver	INFO	Listening on 127.0.0.1:52326
+1605886723572	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileJCKyFM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886726539	Marionette	INFO	Listening on port 52333
+1605886726599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886732253	Marionette	INFO	Stopped listening on port 52333
+JavaScript error: https://builder-assets.unbounce.com/published-js/main.bundle-4e498eb.z.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886733494	geckodriver	INFO	Listening on 127.0.0.1:52419
+1605886734502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileq0YIUf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886737330	Marionette	INFO	Listening on port 52426
+1605886737455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=b07bec59a12b3eb5f23daff5cde28bd8&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886748456%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B005b983e6a73e0597bd31c6dc697c905%3Bb07bec59a12b3eb5f23daff5cde28bd8%3BGA1.1.1246346550.1605886740%3B6481%3B0%3B767%3B127%3B0%3B-3%3B2566%3B2594&rdm=0.6009890801814004&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605886922774	geckodriver	INFO	Listening on 127.0.0.1:52630
+1605886923798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile1DQfs0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886928054	Marionette	INFO	Listening on port 52637
+1605886928333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886928374	Marionette	INFO	Stopped listening on port 52637
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605886929151	geckodriver	INFO	Listening on 127.0.0.1:52698
+1605886930168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileM1W7UT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886933447	Marionette	INFO	Listening on port 52705
+1605886933535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886939134	Marionette	INFO	Stopped listening on port 52705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605886940453	geckodriver	INFO	Listening on 127.0.0.1:52813
+1605886941478	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileHs3gS5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886945419	Marionette	INFO	Listening on port 52834
+1605886946012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886946057	Marionette	INFO	Stopped listening on port 52834
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605886946853	geckodriver	INFO	Listening on 127.0.0.1:52927
+1605886947855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileZNjqkf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886951102	Marionette	INFO	Listening on port 52934
+1605886951485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605886956180	Marionette	INFO	Stopped listening on port 52934
+1605886957267	geckodriver	INFO	Listening on 127.0.0.1:53027
+1605886958258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilevJpKta"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605886962417	Marionette	INFO	Listening on port 53037
+1605886962546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=dd4ed34773f31451edc0c348808770a2&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605886973066%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B3aa4777f04499be9746b2cfd3e0ff839%3Bdd4ed34773f31451edc0c348808770a2%3BGA1.1.2035638178.1605886965%3B6284%3B0%3B267%3B118%3B0%3B-2%3B2174%3B2234&rdm=0.380743067361909&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605887001205	geckodriver	INFO	Listening on 127.0.0.1:53273
+1605887002233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile7S7rco"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887007006	Marionette	INFO	Listening on port 53280
+1605887007073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887007121	Marionette	INFO	Stopped listening on port 53280
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605887007911	geckodriver	INFO	Listening on 127.0.0.1:53344
+1605887008923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileRTARHN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887012497	Marionette	INFO	Listening on port 53353
+1605887012586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887018340	Marionette	INFO	Stopped listening on port 53353
+1605887019985	geckodriver	INFO	Listening on 127.0.0.1:53447
+1605887020930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileFgUx3U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887024651	Marionette	INFO	Listening on port 53455
+1605887024768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887024818	Marionette	INFO	Stopped listening on port 53455
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+1605887025674	geckodriver	INFO	Listening on 127.0.0.1:53508
+1605887026681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile0JiarP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887030587	Marionette	INFO	Listening on port 53515
+1605887030693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605887040233	Marionette	INFO	Stopped listening on port 53515
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605887041583	geckodriver	INFO	Listening on 127.0.0.1:53694
+1605887042616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile8590kE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887048286	Marionette	INFO	Listening on port 53702
+1605887048393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=9ddc873402e6fdf57c83e2597e3a9052&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887056784%3B0%3B0%3B1%3B0%3B0%3B1280x666%3B0%3B0%3Bf8c1f69c5e983aaa18fdc8a0dba68846%3B9ddc873402e6fdf57c83e2597e3a9052%3BGA1.1.1992372875.1605887052%3B4152%3B10%3B322%3B129%3B0%3B-5%3B3047%3B3089&rdm=0.8791647456514157&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605887173760	Marionette	INFO	Stopped listening on port 52426
+1605887175290	Marionette	INFO	Stopped listening on port 53037
+1605887176897	Marionette	INFO	Stopped listening on port 53702
+1605887181561	geckodriver	INFO	Listening on 127.0.0.1:54218
+1605887182569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile6W8ZAD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887186603	Marionette	INFO	Listening on port 54225
+1605887186669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887186708	Marionette	INFO	Stopped listening on port 54225
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887187387	geckodriver	INFO	Listening on 127.0.0.1:54280
+1605887188404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileGh5LGE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887191877	Marionette	INFO	Listening on port 54287
+1605887191987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887198274	Marionette	INFO	Stopped listening on port 54287
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605887199579	geckodriver	INFO	Listening on 127.0.0.1:54380
+1605887200587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileyqTwtp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887203821	Marionette	INFO	Listening on port 54387
+1605887204136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887204186	Marionette	INFO	Stopped listening on port 54387
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887204879	geckodriver	INFO	Listening on 127.0.0.1:54436
+1605887205899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileOXxO5s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887209047	Marionette	INFO	Listening on port 54443
+1605887209168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605887217414	Marionette	INFO	Stopped listening on port 54443
+1605887218396	geckodriver	INFO	Listening on 127.0.0.1:54551
+1605887219408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileCJKNhI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887222458	Marionette	INFO	Listening on port 54558
+1605887222540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=8e5c8429aa81a931fb00709edd0314ac&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887233274%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bc190a223c4bb18a04eb6837ac3e54223%3B8e5c8429aa81a931fb00709edd0314ac%3BGA1.1.901654190.1605887225%3B4014%3B4%3B267%3B125%3B0%3B-4%3B2168%3B2185&rdm=0.0912485333750297&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605887252432	Marionette	INFO	Stopped listening on port 54558
+1605887256776	geckodriver	INFO	Listening on 127.0.0.1:54740
+1605887257788	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilex5u9X5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887261353	Marionette	INFO	Listening on port 54747
+1605887261478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887261547	Marionette	INFO	Stopped listening on port 54747
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887262256	geckodriver	INFO	Listening on 127.0.0.1:54797
+1605887263250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileJHRgSP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887266284	Marionette	INFO	Listening on port 54805
+1605887266421	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605887303818	Marionette	INFO	Stopped listening on port 54805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605887306674	geckodriver	INFO	Listening on 127.0.0.1:54958
+1605887307712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileqQWcuB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887315437	Marionette	INFO	Listening on port 54965
+1605887315516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887315605	Marionette	INFO	Stopped listening on port 54965
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605887316740	geckodriver	INFO	Listening on 127.0.0.1:55057
+1605887317773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofiletpDCLz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887325369	Marionette	INFO	Listening on port 55065
+1605887325547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887330320	Marionette	INFO	Stopped listening on port 55065
+1605887331362	geckodriver	INFO	Listening on 127.0.0.1:55174
+1605887332335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilecjWeiO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887336268	Marionette	INFO	Listening on port 55181
+1605887336356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=66472658b4c5f1dbd660e285b7dd5d86&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887345376%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B35fd2408a1072c521d58a4f2d96941b0%3B66472658b4c5f1dbd660e285b7dd5d86%3BGA1.1.1422515771.1605887339%3B4788%3B2%3B257%3B124%3B0%3B-2%3B3993%3B4063&rdm=0.680509308600837&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1605887382075	Marionette	INFO	Stopped listening on port 55181
+1605887393440	geckodriver	INFO	Listening on 127.0.0.1:55418
+1605887394465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilexGUKco"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887398278	Marionette	INFO	Listening on port 55425
+1605887398582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887398639	Marionette	INFO	Stopped listening on port 55425
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605887399328	geckodriver	INFO	Listening on 127.0.0.1:55482
+1605887400335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileYChPZo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887403328	Marionette	INFO	Listening on port 55491
+1605887403389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887408425	Marionette	INFO	Stopped listening on port 55491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605887409743	geckodriver	INFO	Listening on 127.0.0.1:55628
+1605887410773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileXGlYWQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887414875	Marionette	INFO	Listening on port 55640
+1605887415107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887415387	Marionette	INFO	Stopped listening on port 55640
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887416319	geckodriver	INFO	Listening on 127.0.0.1:55711
+1605887417333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileqKVtyL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887420730	Marionette	INFO	Listening on port 55719
+1605887420811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887426243	Marionette	INFO	Stopped listening on port 55719
+1605887427794	geckodriver	INFO	Listening on 127.0.0.1:55812
+1605887428792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile4gjg4L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887432207	Marionette	INFO	Listening on port 55819
+1605887432290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=77db03d42421755f6fcc3e8d1d2b136e&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887439435%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B8615f972d013150b6bb7192a2574ca71%3B77db03d42421755f6fcc3e8d1d2b136e%3BGA1.1.905410755.1605887434%3B2616%3B1%3B261%3B143%3B0%3B-6%3B1959%3B1979&rdm=0.052264850928104845&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605887501037	geckodriver	INFO	Listening on 127.0.0.1:56206
+1605887502057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilewIZk7d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887507015	Marionette	INFO	Listening on port 56213
+1605887507112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887507149	Marionette	INFO	Stopped listening on port 56213
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887507960	geckodriver	INFO	Listening on 127.0.0.1:56280
+1605887508973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileAtyTPx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887513655	Marionette	INFO	Listening on port 56287
+1605887513709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887521748	Marionette	INFO	Stopped listening on port 56287
+1605887523299	geckodriver	INFO	Listening on 127.0.0.1:56449
+1605887524300	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileTq3xBO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887528176	Marionette	INFO	Listening on port 56459
+1605887528275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887528320	Marionette	INFO	Stopped listening on port 56459
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605887529151	geckodriver	INFO	Listening on 127.0.0.1:56531
+1605887530158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile8S8aN8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887534190	Marionette	INFO	Listening on port 56538
+1605887534311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887539526	Marionette	INFO	Stopped listening on port 56538
+1605887540829	geckodriver	INFO	Listening on 127.0.0.1:56631
+1605887541836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile7PppiB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887545634	Marionette	INFO	Listening on port 56638
+1605887545921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=7412545e92651aebb160cefe65409b16&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887555137%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B9d9c7d2ba3e7722f45d0322d26369fef%3B7412545e92651aebb160cefe65409b16%3BGA1.1.338727531.1605887549%3B4904%3B3%3B271%3B110%3B0%3B-4%3B2041%3B2042&rdm=0.9094846013539077&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605887593289	geckodriver	INFO	Listening on 127.0.0.1:56886
+1605887594308	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilelpw7TI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887600070	Marionette	INFO	Listening on port 56893
+1605887600141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887600191	Marionette	INFO	Stopped listening on port 56893
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1605887601030	geckodriver	INFO	Listening on 127.0.0.1:56963
+1605887602044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile9EJnAW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887606242	Marionette	INFO	Listening on port 56974
+1605887606388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887611734	Marionette	INFO	Stopped listening on port 56974
+1605887613370	geckodriver	INFO	Listening on 127.0.0.1:57073
+1605887614383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileyJf9cC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887618918	Marionette	INFO	Listening on port 57082
+1605887619043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887619087	Marionette	INFO	Stopped listening on port 57082
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605887619933	geckodriver	INFO	Listening on 127.0.0.1:57144
+1605887620937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilehpOCly"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887625102	Marionette	INFO	Listening on port 57151
+1605887625190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887630240	Marionette	INFO	Stopped listening on port 57151
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js, line 26: NS_ERROR_NOT_INITIALIZED: 
+1605887631525	geckodriver	INFO	Listening on 127.0.0.1:57250
+1605887632537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileuRepSS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887636578	Marionette	INFO	Listening on port 57257
+1605887636635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=ba1bcbdcda5141cfde4129bc8ed97606&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887649264%3B0%3B0%3B1%3B0%3B0%3B1280x666%3B0%3B0%3B74e2cf1c5504e3ab5d43cf7b7d6283a0%3Bba1bcbdcda5141cfde4129bc8ed97606%3BGA1.1.26211170.1605887640%3B8129%3B4%3B384%3B100%3B0%3B-7%3B3611%3B3672&rdm=0.4022677630001972&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605887673308	Marionette	INFO	Stopped listening on port 56638
+1605887675077	Marionette	INFO	Stopped listening on port 55819
+1605887677908	Marionette	INFO	Stopped listening on port 57257
+1605887681582	geckodriver	INFO	Listening on 127.0.0.1:57446
+1605887682601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileHHKI1v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887686885	Marionette	INFO	Listening on port 57453
+1605887687008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887687044	Marionette	INFO	Stopped listening on port 57453
+console.error: services.settings: 
+  main/nimbus-desktop-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+1605887687967	geckodriver	INFO	Listening on 127.0.0.1:57511
+1605887688979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileYRdngG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887692516	Marionette	INFO	Listening on port 57518
+1605887692702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887697642	Marionette	INFO	Stopped listening on port 57518
+1605887699137	geckodriver	INFO	Listening on 127.0.0.1:57629
+1605887700129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilezddgCa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887703945	Marionette	INFO	Listening on port 57636
+1605887704017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887704054	Marionette	INFO	Stopped listening on port 57636
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887704835	geckodriver	INFO	Listening on 127.0.0.1:57693
+1605887705835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile2Nqaui"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887709131	Marionette	INFO	Listening on port 57700
+1605887709278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605887735374	Marionette	INFO	Stopped listening on port 57700
+1605887737931	geckodriver	INFO	Listening on 127.0.0.1:57860
+1605887738929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile2nlcFQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887742305	Marionette	INFO	Listening on port 57867
+1605887742475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+1605887852664	geckodriver	INFO	Listening on 127.0.0.1:58129
+1605887853673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilekRRGxU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887858050	Marionette	INFO	Listening on port 58136
+1605887858108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887858202	Marionette	INFO	Stopped listening on port 58136
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605887858900	geckodriver	INFO	Listening on 127.0.0.1:58194
+1605887859914	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilepxp4Qn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887863831	Marionette	INFO	Listening on port 58201
+1605887864111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887872460	Marionette	INFO	Stopped listening on port 58201
+1605887873885	geckodriver	INFO	Listening on 127.0.0.1:58295
+1605887874955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileRLOvcz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887878415	Marionette	INFO	Listening on port 58302
+1605887878524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887878694	Marionette	INFO	Stopped listening on port 58302
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887879473	geckodriver	INFO	Listening on 127.0.0.1:58351
+1605887880492	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilegyXeTg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887884059	Marionette	INFO	Listening on port 58358
+1605887884162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887888703	Marionette	INFO	Stopped listening on port 58358
+JavaScript error: https://builder-assets.unbounce.com/published-js/main.bundle-4e498eb.z.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1605887889504	geckodriver	INFO	Listening on 127.0.0.1:58451
+1605887890509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileHaZMpp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887893980	Marionette	INFO	Listening on port 58458
+1605887894188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887894244	Marionette	INFO	Stopped listening on port 58458
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605887894936	geckodriver	INFO	Listening on 127.0.0.1:58512
+1605887895951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileBIbdjr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887899243	Marionette	INFO	Listening on port 58519
+1605887899314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605887906649	Marionette	INFO	Stopped listening on port 58519
+1605887908045	geckodriver	INFO	Listening on 127.0.0.1:58640
+1605887909062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile8lUApM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887912573	Marionette	INFO	Listening on port 58663
+1605887912640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605887918531	geckodriver	INFO	Listening on 127.0.0.1:58791
+1605887919538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilet16JYp"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887925003	Marionette	INFO	Listening on port 58800
+1605887925088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=abdb9d5b34cb82e3a7cbe5b2cc4b11e2&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887921956%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B26c2183b130e0430279f1754c47c097c%3Babdb9d5b34cb82e3a7cbe5b2cc4b11e2%3BGA1.1.388220835.1605887915%3B4716%3B1%3B299%3B122%3B0%3B-5%3B2120%3B2137&rdm=0.5820256528401098&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=6163055cae225cb538a66a47aec5843b&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605887936011%3B0%3B0%3B1%3B0%3B0%3B1280x666%3B0%3B0%3B0fde8a1644808a61b0ab1ed493a59b27%3B6163055cae225cb538a66a47aec5843b%3BGA1.1.1069459872.1605887931%3B6673%3B2%3B307%3B132%3B0%3B-4%3B5226%3B5298&rdm=0.48242838902006946&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KR9FQH, line 3436: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KR9FQH, line 3436: uncaught exception: [object Object]
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=4, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=4, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=e134db56fd03b7b2169da3fb3bbe2232&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D4&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&cat=&g=0&i=s%3B1605887990589%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Beb5d6182fad931041d3a38f76fdcb47d%3Be134db56fd03b7b2169da3fb3bbe2232%3BGA1.1.56477909.1605887748%3B1425%3B0%3B0%3B109%3B0%3B1%3B1137%3B1155&rdm=0.6988863075199467&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=2, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=2, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=e134db56fd03b7b2169da3fb3bbe2232&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D2&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D4&cat=&g=0&i=s%3B1605887998962%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bfc2640430e52358438c3e05f773644e6%3Be134db56fd03b7b2169da3fb3bbe2232%3BGA1.1.56477909.1605887748%3B1492%3B0%3B0%3B104%3B0%3B1%3B1359%3B1363&rdm=0.5919905034690961&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605888132159	geckodriver	INFO	Listening on 127.0.0.1:59527
+1605888133122	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileUCeQsU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888138975	Marionette	INFO	Listening on port 59534
+1605888139059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888139114	Marionette	INFO	Stopped listening on port 59534
+1605888140148	geckodriver	INFO	Listening on 127.0.0.1:59667
+1605888141163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilejdujxF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888145148	Marionette	INFO	Listening on port 59674
+1605888145247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888150272	Marionette	INFO	Stopped listening on port 59674
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605888151844	geckodriver	INFO	Listening on 127.0.0.1:59786
+1605888152851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilexC9zEv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888156749	Marionette	INFO	Listening on port 59793
+1605888157028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888157097	Marionette	INFO	Stopped listening on port 59793
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605888158055	geckodriver	INFO	Listening on 127.0.0.1:59850
+1605888159059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileXaKH09"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888163037	Marionette	INFO	Listening on port 59857
+1605888163138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888169906	Marionette	INFO	Stopped listening on port 59857
+1605888170933	geckodriver	INFO	Listening on 127.0.0.1:59958
+1605888171929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileZw9u44"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888175890	Marionette	INFO	Listening on port 59965
+1605888176014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888176108	Marionette	INFO	Stopped listening on port 59965
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605888176940	geckodriver	INFO	Listening on 127.0.0.1:60022
+1605888177955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilehF2CWZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888181595	Marionette	INFO	Listening on port 60029
+1605888181707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888186487	Marionette	INFO	Stopped listening on port 60029
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605888187466	geckodriver	INFO	Listening on 127.0.0.1:60123
+1605888188483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilemeVCro"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888192497	Marionette	INFO	Listening on port 60130
+1605888192558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888192601	Marionette	INFO	Stopped listening on port 60130
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1605888193408	geckodriver	INFO	Listening on 127.0.0.1:60185
+1605888194419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile8HsaS1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888198267	Marionette	INFO	Listening on port 60192
+1605888198343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605888208262	Marionette	INFO	Stopped listening on port 60192
+1605888209214	geckodriver	INFO	Listening on 127.0.0.1:60317
+1605888210212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilefcaVEI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888213826	Marionette	INFO	Listening on port 60324
+1605888213924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888213967	Marionette	INFO	Stopped listening on port 60324
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605888214775	geckodriver	INFO	Listening on 127.0.0.1:60375
+1605888215799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileuAiSgO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888219459	Marionette	INFO	Listening on port 60382
+1605888219614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605888224950	Marionette	INFO	Stopped listening on port 60382
+1605888226246	geckodriver	INFO	Listening on 127.0.0.1:60478
+1605888227238	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileJRD7ds"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888231120	Marionette	INFO	Listening on port 60486
+1605888231203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605888238562	geckodriver	INFO	Listening on 127.0.0.1:60607
+1605888239570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofiletBFabK"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888245239	Marionette	INFO	Listening on port 60617
+1605888245360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=c331d330c84b91fed839739e8390a7d9&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605888246637%3B0%3B0%3B1%3B0%3B0%3B1280x668%3B0%3B0%3Bf693a6c69acaddaa1a5b83f8e4fd719c%3Bc331d330c84b91fed839739e8390a7d9%3BGA1.1.1987186253.1605888235%3B6562%3B7%3B291%3B260%3B0%3B-4%3B3385%3B3443&rdm=0.2193403438021797&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605888264922	geckodriver	INFO	Listening on 127.0.0.1:60879
+1605888265915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileovLgv5"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=f766567dad75a839b1df347b59b3c689&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605888269607%3B0%3B0%3B1%3B0%3B0%3B1280x671%3B0%3B0%3Ba1e239538e54693b816fb847f0eb45d8%3Bf766567dad75a839b1df347b59b3c689%3BGA1.1.1005580608.1605888260%3B18545%3B5%3B817%3B1366%3B5%3B-5%3B9453%3B9460&rdm=0.3463620314148199&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888274100	Marionette	INFO	Listening on port 60892
+1605888274475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605888280961	geckodriver	INFO	Listening on 127.0.0.1:61119
+1605888281972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile2LAiS4"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=140ec9814390c1410c0ca44f938bfde2&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605888284182%3B0%3B0%3B1%3B0%3B0%3B1280x673%3B0%3B0%3B61dec079750058eba0879f5c82d30f76%3B140ec9814390c1410c0ca44f938bfde2%3BGA1.1.1088977191.1605888278%3B4790%3B1%3B431%3B114%3B0%3B-4%3B3236%3B3304&rdm=0.3272565786523107&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605888291292	Marionette	INFO	Listening on port 61126
+1605888291387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=913cf568b83cb4e5b815bced3b1568a4&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605888303631%3B0%3B0%3B1%3B0%3B0%3B1280x675%3B0%3B0%3B9a25a80bc01046c5e2b93ab6d968f08c%3B913cf568b83cb4e5b815bced3b1568a4%3BGA1.1.594758357.1605888298%3B7123%3B37%3B430%3B148%3B0%3B-3%3B4912%3B4963&rdm=0.21929862948043177&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=3, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=3, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=e134db56fd03b7b2169da3fb3bbe2232&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D3&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D2&cat=&g=0&i=s%3B1605888377984%3B0%3B0%3B1%3B0%3B0%3B1440x734%3B0%3B0%3B71c5ffbfd92174305a8bd8ba00866347%3Be134db56fd03b7b2169da3fb3bbe2232%3BGA1.1.56477909.1605887748%3B1968%3B16%3B227%3B107%3B0%3B2%3B1739%3B1755&rdm=0.7227800060111106&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=4, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=4, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=e134db56fd03b7b2169da3fb3bbe2232&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D4&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D3&cat=&g=0&i=s%3B1605888387389%3B0%3B0%3B1%3B0%3B0%3B1440x734%3B0%3B0%3Becc1a3327d4f9dfc7ce28085646e04ed%3Be134db56fd03b7b2169da3fb3bbe2232%3BGA1.1.56477909.1605887748%3B1464%3B0%3B0%3B118%3B0%3B1%3B1086%3B1093&rdm=0.6612377275587498&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605888423300	Marionette	INFO	Stopped listening on port 57867
+1605888425009	Marionette	INFO	Stopped listening on port 58800
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1605888426414	Marionette	INFO	Stopped listening on port 60486
+1605888427672	Marionette	INFO	Stopped listening on port 60617
+1605888429004	Marionette	INFO	Stopped listening on port 60892
+1605888430122	Marionette	INFO	Stopped listening on port 61126
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1605888435141	Marionette	INFO	Stopped listening on port 58663
+1605889628956	geckodriver	INFO	Listening on 127.0.0.1:62447
+1605889629971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileqKJCyC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889634587	Marionette	INFO	Listening on port 62454
+1605889634673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889634720	Marionette	INFO	Stopped listening on port 62454
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889635388	geckodriver	INFO	Listening on 127.0.0.1:62517
+1605889636401	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile5eGNd6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889639591	Marionette	INFO	Listening on port 62524
+1605889639734	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889682974	geckodriver	INFO	Listening on 127.0.0.1:62580
+1605889683961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilexurS2F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889687277	Marionette	INFO	Listening on port 62587
+1605889687404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889687469	Marionette	INFO	Stopped listening on port 62587
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889690095	geckodriver	INFO	Listening on 127.0.0.1:62625
+1605889691115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilee9Ldh4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889693879	Marionette	INFO	Listening on port 62632
+1605889693931	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889769588	geckodriver	INFO	Listening on 127.0.0.1:62701
+1605889770581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilei02SZl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889774073	Marionette	INFO	Listening on port 62709
+1605889774202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889774318	Marionette	INFO	Stopped listening on port 62709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1605889776908	geckodriver	INFO	Listening on 127.0.0.1:62752
+1605889777924	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile1j3xm8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889781183	Marionette	INFO	Listening on port 62759
+1605889781343	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889811261	Marionette	INFO	Stopped listening on port 62632
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1605889813353	Marionette	INFO	Stopped listening on port 62759
+1605889814235	geckodriver	INFO	Listening on 127.0.0.1:62873
+1605889815241	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileZmTr3T"
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+1605889815809	Marionette	INFO	Stopped listening on port 62524
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889821655	Marionette	INFO	Listening on port 62901
+1605889821729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889821775	Marionette	INFO	Stopped listening on port 62901
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605889822439	geckodriver	INFO	Listening on 127.0.0.1:63008
+1605889823450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilehrW51n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889827424	Marionette	INFO	Listening on port 63024
+1605889827481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889843338	Marionette	INFO	Stopped listening on port 63024
+1605889844331	geckodriver	INFO	Listening on 127.0.0.1:63142
+1605889845326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilek25b8B"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889848526	Marionette	INFO	Listening on port 63150
+1605889848655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889848692	Marionette	INFO	Stopped listening on port 63150
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605889849366	geckodriver	INFO	Listening on 127.0.0.1:63196
+1605889850381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilesFcn5n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889853421	Marionette	INFO	Listening on port 63203
+1605889853494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1605889863091	Marionette	INFO	Stopped listening on port 63203
+1605889864443	geckodriver	INFO	Listening on 127.0.0.1:63381
+1605889865461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilei8fFEU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889868537	Marionette	INFO	Listening on port 63389
+1605889868591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+1605889871563	geckodriver	INFO	Listening on 127.0.0.1:63477
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605889872560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilebLeL3f"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889878708	Marionette	INFO	Listening on port 63497
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=b470999cb9a8410d9b24f1007da978cf&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605889875674%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B7e1e8c36cf49951cc8be877df0d4f57c%3Bb470999cb9a8410d9b24f1007da978cf%3BGA1.1.641523854.1605889871%3B2569%3B1%3B243%3B133%3B0%3B-20%3B1995%3B2029&rdm=0.41827746260335996&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605889879051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=37f14dc185e48cef6b189456f8cc66a3&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605889888203%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B4cdbb27cf398c9d95a50495ad8073f84%3B37f14dc185e48cef6b189456f8cc66a3%3BGA1.1.1372044882.1605889882%3B4772%3B0%3B309%3B137%3B0%3B-3%3B2430%3B2603&rdm=0.9104970299826378&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605889933338	geckodriver	INFO	Listening on 127.0.0.1:63759
+1605889934347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofiley8NGNi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889939159	Marionette	INFO	Listening on port 63766
+1605889939238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889939290	Marionette	INFO	Stopped listening on port 63766
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605889940135	geckodriver	INFO	Listening on 127.0.0.1:63830
+1605889941143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileANlYPM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889945342	Marionette	INFO	Listening on port 63837
+1605889945594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889951185	Marionette	INFO	Stopped listening on port 63837
+JavaScript error: https://builder-assets.unbounce.com/published-js/main.bundle-4e498eb.z.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605889952698	geckodriver	INFO	Listening on 127.0.0.1:63934
+1605889953652	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileWoTeN6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889957470	Marionette	INFO	Listening on port 63941
+1605889957570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889957609	Marionette	INFO	Stopped listening on port 63941
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889958406	geckodriver	INFO	Listening on 127.0.0.1:63998
+1605889959425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileyhmPjL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889962882	Marionette	INFO	Listening on port 64005
+1605889963048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889967921	Marionette	INFO	Stopped listening on port 64005
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1605889968869	geckodriver	INFO	Listening on 127.0.0.1:64099
+1605889969877	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile1POf2d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889973640	Marionette	INFO	Listening on port 64107
+1605889973750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889973815	Marionette	INFO	Stopped listening on port 64107
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605889974665	geckodriver	INFO	Listening on 127.0.0.1:64159
+1605889975685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofiledZ7ngM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889979788	Marionette	INFO	Listening on port 64174
+1605889979885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889984517	Marionette	INFO	Stopped listening on port 64174
+1605889985465	geckodriver	INFO	Listening on 127.0.0.1:64332
+1605889986448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilegNfyo5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889990527	Marionette	INFO	Listening on port 64339
+1605889990556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605889990593	Marionette	INFO	Stopped listening on port 64339
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1605889991390	geckodriver	INFO	Listening on 127.0.0.1:64397
+1605889992418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileLxL65d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605889996260	Marionette	INFO	Listening on port 64404
+1605889996406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605890001237	Marionette	INFO	Stopped listening on port 64404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605890002228	geckodriver	INFO	Listening on 127.0.0.1:64500
+1605890003227	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileZNClxb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605890007122	Marionette	INFO	Listening on port 64507
+1605890007225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605890007268	Marionette	INFO	Stopped listening on port 64507
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605890008069	geckodriver	INFO	Listening on 127.0.0.1:64561
+1605890009090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofilemnnNJ5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605890012644	Marionette	INFO	Listening on port 64570
+1605890012983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605890018379	Marionette	INFO	Stopped listening on port 64570
+1605890020587	geckodriver	INFO	Listening on 127.0.0.1:64666
+1605890021593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile5jczj9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605890025187	Marionette	INFO	Listening on port 64673
+1605890025277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605890030063	geckodriver	INFO	Listening on 127.0.0.1:64780
+1605890031051	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileKlzGUt"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=f0a1d40a645ed2e9b3cc300c6784b873&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605890033349%3B0%3B0%3B1%3B0%3B0%3B1280x666%3B0%3B0%3Bc5edb4c51495163634d1a01b9b71547d%3Bf0a1d40a645ed2e9b3cc300c6784b873%3BGA1.1.1945548682.1605890028%3B3387%3B75%3B270%3B119%3B0%3B-6%3B2247%3B2350&rdm=0.8812338966549962&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605890038167	Marionette	INFO	Listening on port 64788
+1605890038327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605890047457	geckodriver	INFO	Listening on 127.0.0.1:65036
+1605890048484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofile6IY8q1"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=bbe20565267abb839a50c924ec05f2d5&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605890050448%3B0%3B0%3B1%3B0%3B0%3B1280x668%3B0%3B0%3B6ef0daa850d6a71a1b049c83d2814a20%3Bbbe20565267abb839a50c924ec05f2d5%3BGA1.1.285842708.1605890046%3B7607%3B0%3B244%3B122%3B0%3B-11%3B6848%3B7007&rdm=0.3649273429617017&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605890055686	Marionette	INFO	Listening on port 65051
+1605890055797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+1605890062201	geckodriver	INFO	Listening on 127.0.0.1:65241
+1605890062294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qq/mr8xq_vn0l5fjlr4fwsyz6500000gn/T/rust_mozprofileyxT5qT"
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=80cbbe2ad8647fe2a6a8c1f8b109a3d9&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605890066226%3B0%3B0%3B1%3B0%3B0%3B1280x671%3B0%3B0%3B4cfe25ac1812152e5577952f53a3ae05%3B80cbbe2ad8647fe2a6a8c1f8b109a3d9%3BGA1.1.1995802696.1605890059%3B4196%3B7%3B554%3B126%3B0%3B-9%3B2802%3B2868&rdm=0.295991496935339&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605890073800	Marionette	INFO	Listening on port 65246
+1605890073918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=1, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=746396607e57a40cb23b5872af265dee&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&r=&cat=&g=0&i=s%3B1605890085628%3B0%3B0%3B1%3B0%3B0%3B1280x673%3B0%3B0%3B054cbf1d52473e0544f6a4e936e35e93%3B746396607e57a40cb23b5872af265dee%3BGA1.1.35566930.1605890081%3B7279%3B10%3B436%3B136%3B0%3B-14%3B4300%3B4393&rdm=0.9913373385756168&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=4, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119172311, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=4, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=746396607e57a40cb23b5872af265dee&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D4&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&cat=&g=0&i=s%3B1605890108652%3B0%3B0%3B1%3B0%3B0%3B1280x673%3B0%3B0%3B077bd66fc7732af8a77e510a2ac68859%3B746396607e57a40cb23b5872af265dee%3BGA1.1.35566930.1605890081%3B3089%3B2%3B328%3B238%3B0%3B2%3B2676%3B2689&rdm=0.32797941459904956&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=2, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=2, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=b470999cb9a8410d9b24f1007da978cf&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D2&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D1&cat=&g=0&i=s%3B1605890132838%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3Bf3d110caada6d43dcee157273b305d94%3Bb470999cb9a8410d9b24f1007da978cf%3BGA1.1.641523854.1605889871%3B2873%3B1%3B226%3B203%3B0%3B2%3B2071%3B2092&rdm=0.47506334848945564&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=3, line 328: unreachable code after return statement
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript error: https://salt.tikicdn.com/desktop/dist/category.js?v=nvms_201119174411, line 1: TypeError: e.customer is null
+JavaScript warning: https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316?p=3, line 328: unreachable code after return statement
+JavaScript error: https://contineljs.com/_tracking1.gif?dg=b470999cb9a8410d9b24f1007da978cf&fl=-1.-1.&je=0&sr=1440x900&sc=24&hn=tiki.vn&p=%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D3&r=https%3A%2F%2Ftiki.vn%2Fbestsellers%2Fsach-truyen-tieng-viet%2Fc316%3Fp%3D2&cat=&g=0&i=s%3B1605890147014%3B0%3B0%3B1%3B0%3B0%3B1280x665%3B0%3B0%3B93eefa1cf1592461d6246d4183830a9d%3Bb470999cb9a8410d9b24f1007da978cf%3BGA1.1.641523854.1605889871%3B5541%3B0%3B0%3B102%3B0%3B1%3B1468%3B1477&rdm=0.9332838617451867&ce=1&lc=&cr=&ui=, line 6: ReferenceError: ADM_AdsTracking is not defined
+1605890252231	Marionette	INFO	Stopped listening on port 63389
+1605890254204	Marionette	INFO	Stopped listening on port 63497
+1605890256960	Marionette	INFO	Stopped listening on port 64788
+1605890259288	Marionette	INFO	Stopped listening on port 64673
+1605890261137	Marionette	INFO	Stopped listening on port 65051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605890263674	Marionette	INFO	Stopped listening on port 65246

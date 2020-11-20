@@ -33,8 +33,15 @@ class BookSpider(scrapy.Spider):
 
     }
 
+    def start_requests(self):
+        urlRelative = 'https://tiki.vn/bestsellers/sach-truyen-tieng-viet/c316'
+        count = 1
+        for page in range(1, 5):
+            count = count + 1
+            url = urlRelative + "?" + "p=" + str(page)
 
-
+            print('page - ', count)
+            yield scrapy.Request(url, self.parse)
 
     def parse(self, response):
         options = webdriver.FirefoxOptions()
@@ -52,29 +59,30 @@ class BookSpider(scrapy.Spider):
         wait.until(EC.presence_of_element_located((By.CLASS_NAME, "bestseller-cat-item")))
 
             #frame_xpath = '//div[@class="bestseller-cat"]/div[@class="bestseller-cat-list"]/div[@class="bestseller-cat-item"]'
-        frame_list = driver.find_elements_by_xpath('//div[@class="product-listing"]/div[@class="bestseller-cat"]/div[@class="bestseller-cat-list"]/div[@class="bestseller-cat-item"]')
-        print(len(frame_list))
+        frame_list = response.xpath('//div[@class="product-listing"]/div[@class="bestseller-cat"]/div[@class="bestseller-cat-list"]/div[@class="bestseller-cat-item"]')
+        # table = response.xpath('//div[@class="product-listing"]/div[@class="bestseller-cat"]/div[@class="bestseller-cat-list"]/div[@class="bestseller-cat-item"]')
 
 
         for j in frame_list:
-            # name = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p/a')[0]
-            # frame["NAME"] = name.text
-            frame["NAME"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p/a')[0].text
-            frame["AUTHOR"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="author"]')[0].text
-            frame["REVIEWS"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="review"]')[0].text
-            frame["PRICE_SALE"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="price-sale"]')[0].text.split(' ')[0]
-            frame["PRICE_REGULAR"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="price-sale"]/span[@class="price-regular"]')[0].text
-            frame["DISCOUNT"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="price-sale"]/span[@class="sale-tag sale-tag-square"]')[0].text
+            # name = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p/a')
 
-            TIKINOW = j.find_elements_by_xpath('//div[@class="product-col-2"]/div[@class="infomation"]/p/a/i')[0].get_attribute('class')
+            frame["NAME"] = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p/a/text()').get()
+            frame["AUTHOR"] = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="author"]/text()').get()
+            frame["REVIEWS"] = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="review"]/text()').get()
+            frame["PRICE_SALE"] = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="price-sale"]/text()').get()
+            frame["PRICE_SALE"] = frame["PRICE_SALE"].split(' ')[0]
+            frame["PRICE_REGULAR"] = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="price-sale"]/span[@class="price-regular"]/text()').get()
+            frame["DISCOUNT"] = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="price-sale"]/span[@class="sale-tag sale-tag-square"]/text()').get()
+
+            TIKINOW = j.xpath('//div[@class="product-col-2"]/div[@class="infomation"]/p/a/i/@class').get()
             TIKINOW = re.findall("tikinow",TIKINOW)
             frame["TIKINOW"] = TIKINOW
 
             #frame["RATES"] = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="rating"]/span[@class="rating-content"]/span')[0].get_attribute('style')
-            RATES = j.find_elements_by_xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="rating"]/span[@class="rating-content"]/span')[0].get_attribute('style')
-            RATES = RATES.split(' ')[-1].replace(";", '')
+            RATES = j.xpath('.//div[@class="product-col-2"]/div[@class="infomation"]/p[@class="rating"]/span[@class="rating-content"]/span/@style').get()
+            RATES = RATES.split(':')[-1].replace(";", '')
             frame["RATES"] = RATES
-
+            #
 
 
             # price sale /html/body/div[10]/div/div/div[2]/div/div[3]/div[1]/div[3]/div/p[5]
@@ -82,7 +90,18 @@ class BookSpider(scrapy.Spider):
             # discount /html/body/div[10]/div/div/div[2]/div/div[3]/div[1]/div[3]/div/p[5]/span[2]
             # general /html/body/div[10]/div/div/div[2]/div/div[3]
 
-            yield frame
+            yield {
+                "NAME" : frame["NAME"],
+                "AUTHOR" : frame["AUTHOR"],
+                "REVIEWS": frame["REVIEWS"],
+                "PRICE_SALE":frame["PRICE_SALE"],
+                "PRICE_REGULAR":frame["PRICE_REGULAR"],
+                "DISCOUNT":frame["DISCOUNT"],
+                "TIKINOW":frame["TIKINOW"],
+                "RATES":frame["RATES"]
+
+            }
+
 
 
 

@@ -1,22 +1,228 @@
-AUTHOR,DISCOUNT,NAME,PRICE_REGULAR,PRICE_SALE,RATES,REVIEWS,TIKINOW
-Nguyễn Nhật Ánh,-26%,Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Mềm),150.000đ,110.900đ,100%,(317 nhận xét),tikinow
-David A. Phillips,-5%,Thay Đổi Cuộc Sống Với Nhân Số Học,248.000đ,235.500đ,100%,(161 nhận xét),tikinow
-Nguyễn Ngọc Thạch,-15%,Biên Niên Cô Đơn,99.000đ,84.000đ,90%,(93 nhận xét),tikinow
-Nguyên Phong,-35%,Muôn Kiếp Nhân Sinh (Many Lives - Many Times),168.000đ,109.400đ,90%,(2079 nhận xét),tikinow
-Khotudien,-20%,Từ Điển Tiếng “Em”,69.000đ,55.200đ,90%,(130 nhận xét),tikinow
-Kulzsc,-25%,Tô Bình Yên Vẽ Hạnh Phúc,78.000đ,58.500đ,100%,(2043 nhận xét),tikinow
-Đỗ Nhung,-37%,Mindmap English Grammar - Ngữ Pháp Tiếng Anh Bằng Sơ Đồ Tư Duy,190.000đ,119.700đ,90%,(421 nhận xét),tikinow
-Nguyễn Nhật Ánh,-30%,Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Cứng),270.000đ,189.000đ,90%,(100 nhận xét),tikinow
-Cảnh Thiên,-27%,Đừng Lựa Chọn An Nhàn Khi Còn Trẻ,81.000đ,58.900đ,90%,(2728 nhận xét),tikinow
-John Gray,-40%,Đàn Ông Sao Hỏa Đàn Bà Sao Kim,188.000đ,112.800đ,90%,(1020 nhận xét),tikinow
-AUTHOR,DISCOUNT,NAME,PRICE_REGULAR,PRICE_SALE,RATES,REVIEWS,TIKINOW
-Nguyễn Nhật Ánh,-26%,Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Mềm),150.000đ,110.900đ,100%,(317 nhận xét),tikinow
-David A. Phillips,-5%,Thay Đổi Cuộc Sống Với Nhân Số Học,248.000đ,235.500đ,100%,(161 nhận xét),tikinow
-Nguyễn Ngọc Thạch,-15%,Biên Niên Cô Đơn,99.000đ,84.000đ,90%,(93 nhận xét),tikinow
-Nguyên Phong,-35%,Muôn Kiếp Nhân Sinh (Many Lives - Many Times),168.000đ,109.400đ,90%,(2079 nhận xét),tikinow
-Khotudien,-20%,Từ Điển Tiếng “Em”,69.000đ,55.200đ,90%,(130 nhận xét),tikinow
-Kulzsc,-25%,Tô Bình Yên Vẽ Hạnh Phúc,78.000đ,58.500đ,100%,(2043 nhận xét),tikinow
-Đỗ Nhung,-37%,Mindmap English Grammar - Ngữ Pháp Tiếng Anh Bằng Sơ Đồ Tư Duy,190.000đ,119.700đ,90%,(421 nhận xét),tikinow
-Nguyễn Nhật Ánh,-30%,Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Cứng),270.000đ,189.000đ,90%,(100 nhận xét),tikinow
-Cảnh Thiên,-27%,Đừng Lựa Chọn An Nhàn Khi Còn Trẻ,81.000đ,58.900đ,90%,(2728 nhận xét),tikinow
-John Gray,-40%,Đàn Ông Sao Hỏa Đàn Bà Sao Kim,188.000đ,112.800đ,90%,(1020 nhận xét),tikinow
+NAME,AUTHOR,REVIEWS,PRICE_SALE,PRICE_REGULAR,DISCOUNT,TIKINOW,RATES
+"
+                                                Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Mềm)                                                
+                                                                                                    ",Nguyễn Nhật Ánh,(334 nhận xét),110.900đ,150.000đ,-26%,tikinow,100%
+"
+                                                Thay Đổi Cuộc Sống Với Nhân Số Học                                                
+                                                                                                    ",David A. Phillips,(173 nhận xét),235.500đ,248.000đ,-5%,tikinow,100%
+"
+                                                Biên Niên Cô Đơn                                                
+                                                                                                    ",Nguyễn Ngọc Thạch,(103 nhận xét),84.000đ,99.000đ,-15%,tikinow,90%
+"
+                                                Muôn Kiếp Nhân Sinh (Many Lives - Many Times)                                                
+                                                                                                    ",Nguyên Phong,(2084 nhận xét),109.400đ,168.000đ,-35%,tikinow,90%
+"
+                                                Tô Bình Yên Vẽ Hạnh Phúc                                                
+                                                                                                    ",Kulzsc,(2053 nhận xét),58.500đ,78.000đ,-25%,tikinow,100%
+"
+                                                Từ Điển Tiếng “Em”                                                
+                                                                                                    ",Khotudien,(137 nhận xét),55.200đ,69.000đ,-20%,tikinow,90%
+"
+                                                Mindmap English Grammar - Ngữ Pháp Tiếng Anh Bằng Sơ Đồ Tư Duy                                                
+                                                                                                    ",Đỗ Nhung,(424 nhận xét),119.700đ,190.000đ,-37%,tikinow,90%
+"
+                                                Đàn Ông Sao Hỏa Đàn Bà Sao Kim                                                
+                                                                                                    ",John Gray,(1021 nhận xét),112.800đ,188.000đ,-40%,tikinow,90%
+"
+                                                Đừng Lựa Chọn An Nhàn Khi Còn Trẻ                                                
+                                                                                                    ",Cảnh Thiên,(2735 nhận xét),58.900đ,81.000đ,-27%,tikinow,90%
+"
+                                                Mắt Biếc (Tái Bản 2019)                                                
+                                                                                                    ",Nguyễn Nhật Ánh,(1359 nhận xét),76.400đ,110.000đ,-31%,tikinow,95%
+"
+                                                Tony Buổi Sáng - Trên Đường Băng (Tái Bản 2017)                                                
+                                                                                                    ",,(1497 nhận xét),53.200đ,80.000đ,-34%,tikinow,100%
+"
+                                                Con Chim Xanh Biếc Bay Về (Nguyễn Nhật Ánh) (Bìa Cứng)                                                
+                                                                                                    ",Nguyễn Nhật Ánh,(105 nhận xét),189.000đ,270.000đ,-30%,tikinow,90%
+"
+                                                Nóng Giận Là Bản Năng , Tĩnh Lặng Là Bản Lĩnh                                                
+                                                                                                    ",Tống Mặc,(1453 nhận xét),59.500đ,89.000đ,-33%,tikinow,90%
+"
+                                                Siêu Cò – How To Be A Power Connector                                                
+                                                                                                    ",Judy Robinett,(412 nhận xét),249.000đ,,,tikinow,100%
+"
+                                                Đắc Nhân Tâm (Khổ Lớn)                                                
+                                                                                                    ",Dale Carnegie,(3045 nhận xét),52.400đ,76.000đ,-31%,tikinow,90%
+"
+                                                Sapiens: Lược Sử Loài Người (Tái Bản Có Chỉnh Sửa)                                                 
+                                                                                                    ",Yuval Noah Harari,(1733 nhận xét),134.700đ,209.000đ,-36%,tikinow,90%
+"
+                                                Vui Vẻ Không Quạu Nha - Tản Văn                                                
+                                                                                                    ",Ở Đây Zui Nè,(1741 nhận xét),47.400đ,69.000đ,-31%,tikinow,90%
+"
+                                                Biên Sử Nước (Tiểu Thuyết)                                                
+                                                                                                    ",Nguyễn Ngọc Tư,(76 nhận xét),68.400đ,95.000đ,-28%,tikinow,100%
+"
+                                                Naruto - Tập 45 - Limited Edition                                                
+                                                                                                    ",Masashi Kishimoto,(20 nhận xét),58.500đ,65.000đ,-10%,tikinow,100%
+"
+                                                Tự Học 2000 Từ Vựng Tiếng Anh Theo Chủ Đề                                                
+                                                                                                    ",The Windy,(671 nhận xét),42.250đ,65.000đ,-35%,tikinow,90%
+"
+                                                Tự Học Tiếng Trung Cho Người Mới Bắt Đầu (Dùng Kèm App MCBooks)                                                
+                                                                                                    ",The Zhishi,(394 nhận xét),51.000đ,85.000đ,-40%,tikinow,90%
+"
+                                                Giáo Trình Hán Ngữ 1 - Tập 1 - Quyển Thượng (Phiên Bản Mới)                                                
+                                                                                                    ",Nhiều Tác Giả,(500 nhận xét),57.650đ,89.000đ,-35%,tikinow,100%
+"
+                                                Tôi Quyết Định Sống Cho Chính Tôi (Tặng Kèm 1 Sổ To Do List 2020)                                                
+                                                                                                    ",Kim Suhyun,(1460 nhận xét),59.700đ,88.000đ,-32%,tikinow,100%
+"
+                                                Đời Ngắn Đừng Ngủ Dài (Tái Bản)                                                
+                                                                                                    ",Robin Sharma,(780 nhận xét),52.000đ,75.000đ,-31%,tikinow,90%
+"
+                                                Muôn Kiếp Nhân Sinh (Khổ Nhỏ)                                                
+                                                                                                    ",Nguyên Phong,(24 nhận xét),73.500đ,98.000đ,-25%,tikinow,90%
+"
+                                                Làm Bạn Với Bầu Trời (Bìa Cứng) (Tặng Kèm Khung Ảnh Số Lượng Có Hạn)                                                
+                                                                                                    ",Nguyễn Nhật Ánh,(163 nhận xét),173.700đ,220.000đ,-21%,tikinow,100%
+"
+                                                Thanh Gươm Diệt Quỷ - Tập 19: Cánh Bướm Xao Động                                                
+                                                                                                    ",Koyoharu Gotouge,(12 nhận xét),25.000đ,,,tikinow,100%
+"
+                                                Không Giới Hạn - Khám Phá HO'OPONOPONO                                                
+                                                                                                    ",Joe Vitale,(251 nhận xét),111.700đ,149.000đ,-25%,tikinow,100%
+"
+                                                Từ Tốt Đến Vĩ Đại                                                
+                                                                                                    ",Jim Collins,(506 nhận xét),77.100đ,115.000đ,-33%,tikinow,90%
+"
+                                                Combo Thầy Cô Giáo Hạnh Phúc Sẽ Thay Đổi Thế Giới (Trọn Bộ 2 Tập)                                                
+                                                                                                    ",Thích Nhất Hạnh,(58 nhận xét),142.500đ,198.000đ,-28%,tikinow,100%
+"
+                                                Combo Truyện Tranh Song Ngữ Việt - Anh Cho Bé (12 Tập)                                                
+                                                                                                    ",Sirilak Rattanasuwaj,(409 nhận xét),117.000đ,180.000đ,-35%,tikinow,90%
+"
+                                                Giải Thích Ngữ Pháp Tiếng Anh (Tái Bản 2020)                                                
+                                                                                                    ",Mai Lan Hương,(528 nhận xét),116.000đ,180.000đ,-36%,tikinow,100%
+"
+                                                Nhà Giả Kim                                                
+                                                                                                    ",Paulo Coelho,(4983 nhận xét),54.400đ,69.000đ,-21%,tikinow,90%
+"
+                                                Bộ Truyện Tranh Gieo Hạt Cùng Vĩ Nhân                                                 
+                                                                                                    ",,(165 nhận xét),210.000đ,,,tikinow,100%
+"
+                                                10 Phút Tĩnh Tâm - 71 Thói Quen Cân Bằng Cuộc Sống Hiện Đại                                                
+                                                                                                    ",S.J. Scott,(42 nhận xét),99.610đ,169.000đ,-41%,tikinow,90%
+"
+                                                Chủ Nghĩa Khắc Kỷ - Phong Cách Sống Bản Lĩnh Và Bình Thản                                                
+                                                                                                    ",William B. Irvine,(700 nhận xét),82.800đ,125.000đ,-34%,tikinow,90%
+"
+                                                Trở Về Không - Trải Nghiệm Ho'oponopono - Thực Hiện Hóa Những Phép Màu Trong Cuộc Sống                                                
+                                                                                                    ",Joe Vitale,(63 nhận xét),127.100đ,159.000đ,-20%,tikinow,100%
+"
+                                                Giáo Trình Hán Ngữ Tập 1 Quyển Hạ (Phiên Bản Mới Dùng App)                                                
+                                                                                                    ",Nhiều Tác Giả,(150 nhận xét),72.000đ,115.000đ,-37%,tikinow,100%
+"
+                                                Nhà Lãnh Đạo Không Chức Danh                                                
+                                                                                                    ",Robin Sharma,(622 nhận xét),46.700đ,80.000đ,-42%,tikinow,90%
+"
+                                                Hai Mặt Của Gia Đình                                                
+                                                                                                    ",Choi Kwanghuyn,(170 nhận xét),65.600đ,98.000đ,-33%,tikinow,100%
+"
+                                                Sức Mạnh Của Ngôn Từ (Tặng Kèm 1 Photocard Mintbooks Limited)                                                
+                                                                                                    ",Yun Naru,(782 nhận xét),52.800đ,96.000đ,-45%,tikinow,100%
+"
+                                                Chuyển Đổi Số 
+(Digital Transformation)                                                
+                                                                                                    ",Tom Siebel,(24 nhận xét),104.000đ,145.000đ,-28%,tikinow,100%
+"
+                                                Tuổi Trẻ Đáng Giá Bao Nhiêu (Tái Bản)                                                
+                                                                                                    ",Rosie Nguyễn,(1042 nhận xét),56.600đ,80.000đ,-29%,tikinow,90%
+"
+                                                Thuật Đọc Tâm                                                
+                                                                                                    ",Nhiều Tác Giả,(154 nhận xét),128.900đ,199.000đ,-35%,tikinow,90%
+"
+                                                Một Mảnh Trăng (Tặng Kèm 1 Obi Và 1 Bookmark)                                                
+                                                                                                    ",Ha Hyun,(68 nhận xét),59.000đ,99.000đ,-40%,tikinow,100%
+"
+                                                Cân Bằng Cảm Xúc, Cả Lúc Bão Giông                                                
+                                                                                                    ",Richard Nicholls,(1140 nhận xét),66.100đ,96.000đ,-31%,tikinow,90%
+"
+                                                Dạy Con Làm Giàu (Tập 1) - Để Không Có Tiền Vẫn Tạo Ra Tiền - Cha Giàu Cha Nghèo (Tái Bản)                                                
+                                                                                                    ",Robert T. Kiyosaki,(584 nhận xét),51.500đ,65.000đ,-21%,tikinow,90%
+"
+                                                Hẹn Nhau Phía Sau Tan Vỡ                                                
+                                                                                                    ",An ,(101 nhận xét),73.100đ,86.000đ,-15%,tikinow,100%
+"
+                                                Tôi Tự Học                                                
+                                                                                                    ",Thu Giang - Nguyễn Duy Cần,(753 nhận xét),32.000đ,60.000đ,-47%,tikinow,90%
+"
+                                                Thế Giới Rộng Lớn Lòng Người Chật Hẹp (Tặng Kèm 1 Bookmark )                                                
+                                                                                                    ",Dưa Hấu Hạt Tím,(79 nhận xét),61.000đ,92.000đ,-34%,tikinow,100%
+"
+                                                Càng Kỷ Luật, Càng Tự Do                                                
+                                                                                                    ",Ca Tây,(78 nhận xét),73.000đ,109.000đ,-33%,tikinow,100%
+"
+                                                Đi Trốn (Bìa Mềm)                                                
+                                                                                                    ",Bình Ca,(26 nhận xét),88.000đ,110.000đ,-20%,tikinow,100%
+"
+                                                Mô Hình Hồi Quy Và Khám Phá Khoa Học                                                
+                                                                                                    ",Nguyễn Văn Tuấn,(4 nhận xét),127.500đ,150.000đ,-15%,tikinow,100%
+"
+                                                Thiên Tài Bên Trái, Kẻ Điên Bên Phải                                                
+                                                                                                    ",Cao Minh,(1075 nhận xét),97.100đ,145.000đ,-33%,tikinow,90%
+"
+                                                Dám Bị Ghét                                                
+                                                                                                    ",Koga Fumitake,(965 nhận xét),66.800đ,96.000đ,-30%,tikinow,90%
+"
+                                                Hiểu Về Trái Tim (Tái Bản)                                                
+                                                                                                    ",Minh Niệm,(430 nhận xét),109.900đ,138.000đ,-20%,tikinow,90%
+"
+                                                Đắc Nhân Tâm (Bìa Cứng) - Tái Bản                                                
+                                                                                                    ",Dale Carnegie,(653 nhận xét),68.500đ,98.000đ,-30%,tikinow,100%
+"
+                                                Muôn Kiếp Nhân Sinh (Bìa Cứng)                                                
+                                                                                                    ",Nguyên Phong,(366 nhận xét),146.700đ,228.000đ,-36%,tikinow,100%
+"
+                                                Giao Tiếp Tiếng Anh Thật Dễ Dàng - Easy English Conversation (Tái Bản 2020)                                                
+                                                                                                    ",The Windy,(32 nhận xét),128.300đ,198.000đ,-35%,tikinow,100%
+"
+                                                Khi Mọi Điểm Tựa Đều Mất (Tái Bản 2019)                                                
+                                                                                                    ",Marci Shimoff,(153 nhận xét),54.300đ,78.000đ,-30%,tikinow,90%
+"
+                                                Làm Bạn Với Bầu Trời (Bìa Mềm) (Tặng Kèm Khung Ảnh Số Lượng Có Hạn)                                                
+                                                                                                    ",Nguyễn Nhật Ánh,(959 nhận xét),73.900đ,110.000đ,-33%,tikinow,100%
+"
+                                                Yêu Những Điều Không Hoàn Hảo                                                
+                                                                                                    ",Hae Min,(649 nhận xét),101.400đ,139.000đ,-27%,tikinow,100%
+"
+                                                Dragon Ball Full Color - Phần Một: Thời Niên Thiếu Của Son Goku - Tập 6 (Tặng Kèm Bookmark)                                                
+                                                                                                    ",Akira Toriyama,(11 nhận xét),64.000đ,77.000đ,-17%,tikinow,100%
+"
+                                                BTS & A.R.M.Y Thời Khắc Tươi Đẹp Nhất Chúng Ta Có Nhau                                                
+                                                
+                                                                                            ",Lee Jeeheng,(22 nhận xét),83.300đ,98.000đ,-15%,tikinow,100%
+"
+                                                Power Vs Force - Trường Năng Lượng Và Những Nhân Tố Quyết Định Tinh Thần Và Sức Khỏe Con Người                                                
+                                                                                                    ",David R.Hawkins,(216 nhận xét),101.500đ,155.000đ,-35%,tikinow,90%
+"
+                                                Người Giỏi Không Phải Là Người Làm Tất Cả (Tái Bản 2015)                                                
+                                                                                                    ","Donna M. Genett, Ph.D",(346 nhận xét),37.400đ,48.000đ,-22%,tikinow,90%
+"
+                                                Giận (Tái Bản 2020)                                                
+                                                                                                    ",Thích Nhất Hạnh,(154 nhận xét),83.900đ,120.000đ,-30%,tikinow,100%
+"
+                                                Hai Số Phận (Bìa Cứng)                                                
+                                                                                                    ",Jeffrey Archer,(1029 nhận xét),104.900đ,175.000đ,-40%,tikinow,90%
+"
+                                                Hackers Ielts: Writing                                                
+                                                                                                    ",Viện ngôn ngữ Hackers,(299 nhận xét),162.300đ,239.000đ,-32%,tikinow,90%
+"
+                                                Combo Cà Phê Cùng Tony và Trên Đường Băng                                                
+                                                                                                    ",,(767 nhận xét),127.200đ,170.000đ,-25%,tikinow,100%
+"
+                                                Bạn Đắt Giá Bao Nhiêu?                                                
+                                                                                                    ",Vãn Tình,(2020 nhận xét),66.200đ,99.000đ,-33%,tikinow,90%
+"
+                                                Hackers IELTS: READING                                                
+                                                                                                    ",Viện ngôn ngữ Hackers,(229 nhận xét),165.400đ,259.000đ,-36%,tikinow,90%
+"
+                                                Hackers Ielts: Speaking                                                
+                                                                                                    ",Viện ngôn ngữ Hackers,(243 nhận xét),128.200đ,199.000đ,-36%,tikinow,90%
+"
+                                                Bước Chậm Lại Giữa Thế Gian Vội Vã (Tái Bản)                                                
+                                                                                                    ",Hae Min,(883 nhận xét),59.800đ,85.000đ,-30%,tikinow,90%
+"
+                                                Siêu Nhí Hỏi Nhà Khoa Học Trả Lời - 100 Bí Ẩn Mọi Đứa Trẻ Đều Muốn Hỏi Một Nhà Khoa Học                                                
+                                                                                                    ",Robert Winston,(75 nhận xét),137.200đ,250.000đ,-45%,tikinow,100%
